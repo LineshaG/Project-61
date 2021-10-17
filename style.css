@@ -1,0 +1,165 @@
+body {
+    text-align: center;
+}
+
+#image {
+    margin-top: 80px;
+    width: 110px;
+    height: 160px;
+    border-radius: 50%/50%;
+}
+
+#welcome h1 {
+    font-size: 25px;
+    text-shadow: 2px 2px #ff70a5;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+#p {
+    margin-top: 50px;
+    font-size: 18px;
+    max-width: 250px;
+    margin: inherit;
+}
+
+#welcome {
+    background: linear-gradient(#1ce8ff, #ffffff);
+
+}
+
+.line {
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+}
+
+.links {
+    display: inline;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    float: left;
+}
+
+.links:hover {
+    color: blue;
+    font-size: 25px;
+    background-color: aliceblue;
+}
+
+.menu {
+    width: 100%;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+    top: 0px;
+    background: lightpink;
+    margin-top: 0px;
+    text-align: center;
+}
+
+#bio {
+    text-align: center;
+    background: linear-gradient(#ffffff, #d7b4f3);
+}
+
+#image2 {
+    height: 200px;
+    width: 300px;
+}
+
+#favpaintings {
+    background-image: url(https://m.media-amazon.com/images/I/51y6dy0T8sL._SX355_.jpg);
+    background-size: cover;
+    width: inherit;
+    height: inherit;
+}
+
+#Works {
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+}
+
+.sec {
+    width: 100%;
+    height: 50%;
+}
+
+#favpaintings h1 {
+    font-family: 'Potta One', cursive;
+}
+
+.picture {
+    width: auto;
+    height: 200px;
+    border-radius: 0%;
+    margin: 20px;
+}
+
+#fav {
+    font-size: 25px;
+}
+
+#Works h1 {
+    font-size: 35px;
+    color: red;
+}
+
+.button {
+    font-size: 25px;
+}
+
+#Inspiration {
+    background: #373B44;
+    background: linear-gradient(#4286f4, #373B44);
+    padding-top: 20px;
+}
+
+#Inspiration img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#Inspiration p {
+    font-size: 25px;
+    color: white;
+}
+
+#myname {
+    font-size: 25px;
+    color: white;
+}
+
+#animation {
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+
+#Contact {
+    background-image: url(https://acegif.com/wp-content/gifs/globe-11.gif);
+    background-size: 85%;
+    width: 100%;
+    height: 150%;
+    background-color: lavender;
+}
+
+#contact1 {
+    color: red;
+    text-shadow: none;
+}
+
+#contact1 h3 {
+    display: inline;
+
+}
+#Contact h1 {
+    color: red;
+    font-size: 40px;
+}
